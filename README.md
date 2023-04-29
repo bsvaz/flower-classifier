@@ -7,11 +7,13 @@ This repository contains the final project for the AI Programming with Python co
 - [Overview](#Overview)
 - [File Structure](#File Structure)
 
-<a id="Overview">## Overview</a>
+<a id="Overview"></a>
+## Overview
 
 The goal of this project is to build a deep learning model capable of classifying flower species using images. The model can be trained using the command line and saves the trained model in a '.pth' format. The trained model can then be used to classify new images of flowers.
 
-<a id="File Structure">## File Structure</a>
+<a id="File Structure"></a>
+## File Structure
 
 The repository is structured as follows:
 
