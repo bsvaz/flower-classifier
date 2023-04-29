@@ -1,6 +1,6 @@
 # Flower Species Classifier
 
-This repository contains the final project for the AI Programming with Python course from Udacity. The project utilizes PyTorch to train and evaluate a deep learning model for classifying flower species using the command line. Due to GitHub's file size limitations, the training and testing images, as well as the trained model, are not included in this repository, but you can find the dataset <a href="https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html">here</a>. Please note that running this project can be computationally expensive, and therefore, detailed instructions on how to execute the code have not been provided in this README file.
+This repository contains the final project for the AI Programming with Python course from Udacity. The project utilizes PyTorch to train and evaluate a deep learning model for classifying flower species using the command line. Due to GitHub's file size limitations, the training and testing images, as well as the trained model, are not included in this repository, but you can find the dataset <a href="https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html" target="_blank">here</a>. Please note that running this project can be computationally expensive, and therefore, detailed instructions on how to execute the code have not been provided in this README file.
 
 ## Table of Contents
 
